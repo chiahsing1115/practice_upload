@@ -1,0 +1,1 @@
+C:/Users/chiahsing/AppData/Local/Programs/Python/Python311/python.exe c:/Users/chiahsing/OneDrive/桌面/0515/test.py
